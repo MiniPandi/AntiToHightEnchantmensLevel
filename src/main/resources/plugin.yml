@@ -1,0 +1,4 @@
+name: AntiToHigeEnchantLevel
+version: '${project.version}'
+main: net.pandimini.antitohigeenchantlevel.Main
+api-version: 1.16
