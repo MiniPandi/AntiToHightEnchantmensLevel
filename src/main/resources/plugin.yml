@@ -1,4 +1,4 @@
-name: AntiToHigeEnchantLevel
+name: AntiHighEnchantLevel
 version: '${project.version}'
-main: net.pandimini.antitohigeenchantlevel.Main
+main: net.pandimini.antihighenchantlevel.Main
 api-version: 1.16

@@ -21,7 +21,7 @@ public class listener implements Listener {
                     int enchantmentLevel = item.getEnchantmentLevel(enchantment);
                     if (enchantmentLevel > enchantment.getMaxLevel()){
                         item.setAmount(0);
-                        player.sendMessage(ChatColor.RED + "You ar not allowed to use items with to hiegt enchantment level");
+                        player.sendMessage(ChatColor.RED + "You are not allowed to use this item.");
                     }
                 }
             }
