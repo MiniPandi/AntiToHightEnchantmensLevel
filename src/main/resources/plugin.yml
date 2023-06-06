@@ -1,4 +1,7 @@
 name: AntiHighEnchantLevel
 version: '${project.version}'
-main: net.pandimini.antihighenchantlevel.Main
+main: net.pandimini.antihigheenchantlevel.Main
 api-version: 1.16
+commands:
+  rlc:
+    permission: antiench.rlc
